@@ -1,0 +1,133 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <FrameLayout
+        android:id="@+id/parentFrameLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:id="@+id/backgroundImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/background" >
+        </ImageView>
+
+        <LinearLayout
+            android:id="@+id/linerLayout"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:visibility="visible">
+            
+
+            <LinearLayout              
+                android:id="@+id/timerBackground"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize = "30dp"
+                    android:text="@string/timer"
+                    android:id="@+id/tv1"
+                    android:layout_weight="5"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize = "20dp"
+                    android:text="@string/timerMs"
+                    android:id="@+id/tv2"
+                    android:layout_weight="1"/>
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:orientation="horizontal"
+                android:layout_weight="2" >
+
+                <Button
+
+                    android:background="@drawable/btn_start"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/startText"
+                    android:id="@+id/btStart"
+                    android:layout_weight="1"
+                    android:layout_gravity="center|left"
+                    android:layout_marginLeft="30dp"/>
+
+                <Button
+
+                    android:background="@drawable/btn_reset"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/resetText"
+                    android:id="@+id/btReset"
+                    android:layout_weight="1"
+                    android:layout_gravity="center|right"
+                    android:layout_marginLeft="30dp"/>
+
+                <Button
+                    android:background="@drawable/btn_stop"
+                    android:layout_width="360dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/stopText"
+                    android:id="@+id/btStop"
+                    android:visibility="invisible"
+                    android:layout_toRightOf = "@+id/btStart"
+                    android:layout_marginLeft="-356dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_gravity="center" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:layout_weight="2.28" >
+
+                <ImageView
+                    android:id="@+id/backgroundImageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/hline" >
+                </ImageView>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/backgroundText"
+                style="@style/backgroundText"
+                android:text="@string/backgroundText" >
+            </TextView>
+        </LinearLayout>
+    </FrameLayout>
+
+
+</RelativeLayout>

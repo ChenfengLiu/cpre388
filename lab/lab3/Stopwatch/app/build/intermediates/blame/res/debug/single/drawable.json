@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable/btn_reset.xml",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable/btn_reset.xml"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable/btn_stop.xml",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable/btn_stop.xml"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable/btn_start.xml",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable/btn_start.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stopbutton.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/stopbutton.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/hline.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/hline.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/stopbuttonpressed.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/stopbuttonpressed.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/startbutton.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/startbutton.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/timerbackground.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/timerbackground.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/resetbuttonpressed.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/resetbuttonpressed.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/resetbutton.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/resetbutton.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/startbuttonpressed.png",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/src/main/res/drawable-hdpi/startbuttonpressed.png"
+    }
+]

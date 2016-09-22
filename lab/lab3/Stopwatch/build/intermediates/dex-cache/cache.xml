@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenfeng/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_bb215f4ef839da48c048ec23fa740f1cfcc5ffee/classes.dex" />
+    </item>
+    <item
+        jar="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6469b913fdd41bb4f6ab1987be7e54bc5c4d89d5">
+        <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d91596cd830e67c6668e022d5334ee31b4766478/classes.dex" />
+    </item>
+    <item
+        jar="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="29a6f271d88e4f4922db6c5612a4b603dee937ee">
+        <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b557c352c1f1cd0f28c3c0a4c77074fc44963d52/classes.dex" />
+    </item>
+
+</items>

@@ -12,14 +12,14 @@
         jar="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="6469b913fdd41bb4f6ab1987be7e54bc5c4d89d5">
+        sha1="0e4b2b3a33ca4686e92cc7db131efdfd00182b2d">
         <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d91596cd830e67c6668e022d5334ee31b4766478/classes.dex" />
     </item>
     <item
         jar="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="29a6f271d88e4f4922db6c5612a4b603dee937ee">
+        sha1="683c47053d0725a7790aa17c4bc10fc15d51c8ed">
         <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab3/Stopwatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b557c352c1f1cd0f28c3c0a4c77074fc44963d52/classes.dex" />
     </item>
 

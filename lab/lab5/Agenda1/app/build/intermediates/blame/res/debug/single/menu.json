@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_event_list.xml",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/menu/activity_event_list.xml"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_event_details.xml",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/menu/activity_event_details.xml"
+    },
+    {
+        "merged": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/res/merged/debug/menu/activity_add_event.xml",
+        "source": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/menu/activity_add_event.xml"
+    }
+]

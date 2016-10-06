@@ -1,0 +1,372 @@
+[
+    {
+        "outputFile": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 54,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 54,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 41,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 41,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 48,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 47,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 47,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 54,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 54,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 51,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 51,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 55,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 55,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 56,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 56,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 55,
+                    "endOffset": 561
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endColumn": 55,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 566,
+                    "endColumn": 59,
+                    "endOffset": 621
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 59,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 626,
+                    "endColumn": 50,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 50,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 52,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 52,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 52,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 50,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 50,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 69,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 69,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 77,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 77,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

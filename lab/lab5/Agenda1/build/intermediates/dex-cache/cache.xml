@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cf08dca9434f112bb72535303a34afedf492a98f">
+        <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_110f26141097d81e881727d75f18f39a130b8644/classes.dex" />
+    </item>
+    <item
+        jar="/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d4279177dda95bf19af16ab2c39f6d612c815ba5">
+        <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d7a107411549271441332839a26783ce8c9bc86/classes.dex" />
+    </item>
+    <item
+        jar="/home/chenfeng/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/chenfeng/Documents/cpre388/cpre388/lab/lab5/Agenda1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_bb215f4ef839da48c048ec23fa740f1cfcc5ffee/classes.dex" />
+    </item>
+
+</items>

@@ -42,7 +42,7 @@ public class EventListActivity extends ListActivity {
 	 */
 	@Override
 	protected void onListItemClick(ListView l, View v, int position, long id) {
-		
+
 		// Get ID of selected event based on position in list
 		long eventId = datasource.getAllEvents().get(position).getId();
 		

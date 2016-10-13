@@ -153,12 +153,13 @@ public class AgendaDataSource {
 		// Create Event objects for each item in list
 		while (!cursor.isAfterLast()) {
 			Event event = cursorToEvent(cursor);
-
-			if(event.getEndTime().after(new Date())){
+			Date d = new Date();
+			System.out.println(d.toString());
+			if(event.getEndTime().after(d)){
 				events.add(event);
 			}else{
-				deleteEvent(event);
-				events.remove(event);
+//				deleteEvent(event);
+//				events.remove(event);
 			}
 			cursor.moveToNext();
 		}

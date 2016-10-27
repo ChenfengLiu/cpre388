@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <usb-accessory manufacturer="cpre388" model="morse_code" version="1.0" />
+</resources><!-- From: file:/home/chenfeng/Documents/cpre388/cpre388/lab/lab8/MorseCodeGeneratorShell/app/src/main/res/xml/accessory_filter.xml -->

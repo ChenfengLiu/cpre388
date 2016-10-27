@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent"
+	android:id="@+id/relativeLayout1" 
+	android:layout_height="fill_parent"
+	android:layout_weight="0.72" xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true">
+
+
+		<EditText
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/editText"
+			android:layout_gravity="bottom"
+			android:maxLength="25"
+			android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+			android:layout_weight="8" />
+
+		<Button
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="SEND"
+			android:id="@+id/button"
+			android:layout_weight="1"
+			android:layout_marginLeft="10dp"/>
+	</LinearLayout>
+</RelativeLayout><!-- From: file:/home/chenfeng/Documents/cpre388/cpre388/lab/lab8/MorseCodeGeneratorShell/app/src/main/res/layout/activity_morse_code_generator.xml -->
